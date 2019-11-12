@@ -1,2 +1,2 @@
 
- this is lavanya and i have created this file to practise git commands
+ i am creating a new branch with the name new ans i want to push this branh to git repo
